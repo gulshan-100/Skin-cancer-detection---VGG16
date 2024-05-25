@@ -1,0 +1,6 @@
+The Kaggle dataset titled "Skin Cancer: Malignant vs. Benign" is used to train the Deep Learning VGG model.
+
+The dataset contains two main directories: 'train' and 'test'.
+
+Each main directory has two subdirectories: 'malignant' and 'benign'.
+These subdirectories contain thousands of images each.
